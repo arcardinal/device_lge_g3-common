@@ -199,7 +199,6 @@ PRODUCT_PACKAGES += \
     ueventd.g3.rc
 
 PRODUCT_PACKAGES += \
-    init.galbi.post_boot.sh \
     init.galbi.thermal_conf.sh
 
 # USB
